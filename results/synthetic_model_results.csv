@@ -1,8 +1,0 @@
-Model,R²,RMSE,MAE
-Linear Regression,0.93,0.472,0.383
-Decision Tree,0.702,0.976,0.772
-kNN,0.815,0.77,0.604
-Random Forest,0.879,0.622,0.489
-SVR,0.914,0.524,0.41
-Gradient Boosting,0.905,0.552,0.45
-Neural Network,0.927,0.485,0.383
